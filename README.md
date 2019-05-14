@@ -1,2 +1,2 @@
-# MarsChallenge2019
+# Mars Challenge 2019
 FTC Team 14328
